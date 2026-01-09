@@ -1,3 +1,5 @@
+# CRS conversion EPSG:6350 reprojected to EPSG:6341
+
 #options("install.lock"=FALSE)
 #install.packages("lidR")
 #install.packages("sf")
